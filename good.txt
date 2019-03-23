@@ -1,11 +1,1 @@
-push XXXXXXXXX
-ddddddddddddddddddddddddddAAAAAAAAAAA
-BBBBBBBBB
-qweqwe
-qwe
-qwe
-qwe
-qweqweq
-
-123123123
-AAAAAAAA
+ssh push 03
